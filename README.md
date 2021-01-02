@@ -20,6 +20,5 @@
 <p align="center">
 <a href="mailto:zach.stearns92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/zach-stearns/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
+<a href="https://turingschool.slack.com/archives/D014ZQJ0HT7"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
