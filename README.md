@@ -22,3 +22,12 @@
 <a target="_blank" href="https://www.linkedin.com/in/zach-stearns/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://turingschool.slack.com/archives/D014ZQJ0HT7"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
+
+  <div align="center">
+    <a href="https://github.com/Stearnzy/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stearnzy&show_icons=true&theme=tokyonight" height="200" width="500"/>
+    </a>
+    <a href="https://github.com/Stearnzy/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETBassist&theme=tokyonight" height="200" width="300"/>
+    </a>
+  </div>
