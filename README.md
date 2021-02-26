@@ -28,6 +28,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stearnzy&show_icons=true&theme=great-gatsby" height="200" width="500"/>
     </a>
   <a href="https://github.com/Stearnzy/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stearnzy&theme=tokyonight" height="200" width="300"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stearnzy&theme=great-gatsby" height="200" width="300"/>
     </a>
   </div>
