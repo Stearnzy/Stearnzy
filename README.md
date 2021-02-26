@@ -25,9 +25,9 @@
 
   <div align="center">
     <a href="https://github.com/Stearnzy/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stearnzy&show_icons=true&theme=great-gatsby" height="200"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stearnzy&show_icons=true&theme=great-gatsby" height="175"/>
     </a>
   <a href="https://github.com/Stearnzy/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stearnzy&theme=great-gatsby" height="200"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stearnzy&theme=great-gatsby" height="175"/>
     </a>
   </div>
