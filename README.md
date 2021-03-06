@@ -2,7 +2,7 @@
 
 #### A Little About Me:
 
-🎓 Current Back-End Mod 4 student at [Turing School of Software and Design](https://turing.io/).
+🎓 [Turing School of Software and Design](https://turing.io/) Bach-End program graduate, 2008 cohort.
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
 - 📖 Novice experience with Python, Java, JavaScript, Node.js, and React.
 - 🐍 Interested in Python and other Object-Oriented Languages.
