@@ -2,7 +2,7 @@
 
 #### A Little About Me:
 
-🎓 [Turing School of Software and Design](https://turing.io/) Bach-End program graduate, 2008 cohort.
+🎓 [Turing School of Software and Design](https://turing.io/) Bach-End program graduate, 2008 cohort (August 2020 - March 2021).
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
 - 📖 Novice experience with Python, Java, JavaScript, Node.js, and React.
 - 🐍 Interested in Python and other Object-Oriented Languages.
