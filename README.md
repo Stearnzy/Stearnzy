@@ -4,7 +4,7 @@
 
 🎓 [Turing School of Software and Design](https://turing.io/) Bach-End program graduate, 2008 cohort (August 2020 - March 2021).
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
-- 📖 Novice experience with Python, Java, JavaScript, Node.js, and React.
+- 📖 Novice experience with Python, Java, JavaScript, and Node.js.
 - 🐍 Interested in Python and other Object-Oriented Languages.
 
 🪴 Graduated in 2015 with a Bachelor's of Science in [Integrative Therapeutic Practices](https://www.msudenver.edu/hep/integrativehealthcareprogram/integrativehealthcaremajors/integrativehealthcareextendedmajor/) (now Integrative Health Care) from Metropolitan State University of Denver.
