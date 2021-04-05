@@ -2,7 +2,7 @@
 
 #### A Little About Me:
 
-🎓 [Turing School of Software and Design](https://turing.io/) Bach-End program graduate, 2008 cohort (August 2020 - March 2021).
+🎓 [Turing School of Software and Design](https://turing.io/) Back-End program graduate, 2008 cohort (August 2020 - March 2021).
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
 - 📖 Novice experience with Python, Java, JavaScript, and Node.js.
 - 🐍 Interested in Python and other Object-Oriented Languages.
@@ -21,7 +21,6 @@
 <p align="center">
 <a href="mailto:zach.stearns92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/zach-stearns/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://turingschool.slack.com/archives/D014ZQJ0HT7"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
 
   <div align="center">
