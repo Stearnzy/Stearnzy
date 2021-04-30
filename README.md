@@ -5,10 +5,9 @@
 🎓 [Turing School of Software and Design](https://turing.io/) Back-End program graduate, 2008 cohort (August 2020 - March 2021).
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
 - 📖 Novice experience with Python, Java, JavaScript, and Node.js.
-- 🐍 Interested in Python and other Object-Oriented Languages.
 
 🪴 Graduated in 2015 with a Bachelor's of Science in [Integrative Therapeutic Practices](https://www.msudenver.edu/hep/integrativehealthcareprogram/integrativehealthcaremajors/integrativehealthcareextendedmajor/) (now Integrative Health Care) from Metropolitan State University of Denver.
-- 🌱 I’m looking to blend my growing knowledge of computer programming with projects with a diverse team driven for a lasting positive impact on the world.  Preferred industries include Green Tech or Alternative Medicine!  I'd love to have the chance to do my part to aid in the healing of this planet and its people with a focus in sustainability and holistic living.
+- 🌱 I’m looking to blend my growing knowledge of computer programming with projects with a diverse team driven for a lasting positive impact on the world.  Preferred industries include Green Tech or Medicine, but open to all possibilities!  I'd love to have the chance to do my part in contributing to a collaborative team with emphasis on empathy.
 
 🍻 Previous [Breckenridge Brewery](https://www.breckbrew.com/visit/littleton) server and trainer
 - [Cicerone Certified Beer Server](https://www.cicerone.org/us-en/cicerone-certification-levels)
