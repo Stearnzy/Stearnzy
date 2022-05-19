@@ -1,6 +1,10 @@
 ### Greetings! 🖖
 
 #### A Little About Me:
+🖥️ Backend Developer at Ravyn, May 2021 - present
+- Working in Hapi.js and MySQL to build a business-to-business platform focused on helping clients achieve their sales goals.
+- Building the API virtually singlehandedly from the ground up, along with most of the database schema and stored procedures
+- Integrating third-party systems such as Stripe, Easypost, Sendgrid, Flatfile and Clearbit.
 
 🎓 [Turing School of Software and Design](https://turing.io/) Back-End program graduate, 2008 cohort (August 2020 - March 2021).
 - 📚 Back-End focused currently working with Ruby on Rails, PostgreSQL, ActiveRecord, HTML/ERB.
